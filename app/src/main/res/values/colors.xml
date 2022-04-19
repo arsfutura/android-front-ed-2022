@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sunset_orange">#FF4A38</color>
+    <color name="sunset_orange_lighter">#FF7F64</color>
+    <color name="sunset_orange_darker">#C4000E</color>
+    <color name="old_imperial">#5D2E8C</color>
+    <color name="old_imperial_lighter">#8D5ABD</color>
+    <color name="old_imperial_darker">#2E005E</color>
+    <color name="cosmic_yellow">#FFCE00</color>
+    <color name="obsidian_tint">#242424</color>
+</resources>

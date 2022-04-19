@@ -1,0 +1,54 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.FrontEdEventHandlingDemo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/sunset_orange</item>
+        <item name="colorPrimaryVariant">@color/sunset_orange_darker</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/old_imperial</item>
+        <item name="colorSecondaryVariant">@color/old_imperial_darker</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?colorPrimaryVariant</item>
+        <item name="textAppearanceHeadline1">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Headline1.TiemposHeadline
+        </item>
+        <item name="textAppearanceHeadline2">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Headline2.TiemposHeadline
+        </item>
+        <item name="textAppearanceHeadline3">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Headline3.TiemposHeadline
+        </item>
+        <item name="textAppearanceHeadline4">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Headline4.TiemposHeadline
+        </item>
+        <item name="textAppearanceHeadline5">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Headline5.TiemposHeadline
+        </item>
+        <item name="textAppearanceHeadline6">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Headline6.TiemposHeadline
+        </item>
+        <item name="textAppearanceSubtitle1">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Subtitle1.TiemposHeadline
+        </item>
+        <item name="textAppearanceSubtitle2">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Subtitle2.TiemposHeadline
+        </item>
+        <item name="textAppearanceBody1">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Body1.Rubik
+        </item>
+        <item name="textAppearanceBody2">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Body2.Rubik
+        </item>
+        <item name="textAppearanceCaption">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Caption.Rubik
+        </item>
+        <item name="textAppearanceButton">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Button.Rubik
+        </item>
+        <item name="textAppearanceOverline">
+            @style/TextAppearance.FrontEdEventHandlingDemo.Overline.Rubik
+        </item>
+        <item name="drawingViewStyle">
+            @style/Widget.FrontEdEventHandlingDemo.DrawingView.White.OldImperial
+        </item>
+    </style>
+</resources>

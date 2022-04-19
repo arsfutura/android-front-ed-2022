@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FrontEd event handling demo</string>
+    <string name="title_drawing">Crtanje</string>
+    <string name="hello_fronted">Pozdrav, FrontEd!</string>
+    <string name="draw">Crtaj</string>
+    <string name="undo">Poništi</string>
+    <string name="redo">Ponovi</string>
+    <string name="back">Natrag</string>
+</resources>

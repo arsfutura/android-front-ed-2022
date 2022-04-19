@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FrontEd event handling demo</string>
+    <string name="title_drawing">Drawing</string>
+    <string name="hello_fronted">Hello, FrontEd!</string>
+    <string name="draw">Draw</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="back">Back</string>
+</resources>

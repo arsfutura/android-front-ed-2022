@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Headline1.TiemposHeadline" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="fontFamily">@font/tiempos_headline</item>
+        <item name="android:fontFamily">@font/tiempos_headline</item>
+        <item name="android:textSize">96sp</item>
+    </style>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Headline2.TiemposHeadline" parent="TextAppearance.MaterialComponents.Headline2">
+        <item name="fontFamily">@font/tiempos_headline</item>
+        <item name="android:fontFamily">@font/tiempos_headline</item>
+        <item name="android:textSize">60sp</item>
+    </style>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Headline3.TiemposHeadline" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="fontFamily">@font/tiempos_headline</item>
+        <item name="android:fontFamily">@font/tiempos_headline</item>
+        <item name="android:textSize">48sp</item>
+    </style>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Headline4.TiemposHeadline" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="fontFamily">@font/tiempos_headline</item>
+        <item name="android:fontFamily">@font/tiempos_headline</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Headline5.TiemposHeadline" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="fontFamily">@font/tiempos_headline</item>
+        <item name="android:fontFamily">@font/tiempos_headline</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Headline6.TiemposHeadline" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">@font/tiempos_headline</item>
+        <item name="android:fontFamily">@font/tiempos_headline</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Subtitle1.TiemposHeadline" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="fontFamily">@font/tiempos_headline</item>
+        <item name="android:fontFamily">@font/tiempos_headline</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Subtitle2.TiemposHeadline" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="fontFamily">@font/tiempos_headline</item>
+        <item name="android:fontFamily">@font/tiempos_headline</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Body1.Rubik" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/rubik</item>
+        <item name="android:fontFamily">@font/rubik</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Body2.Rubik" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">@font/rubik</item>
+        <item name="android:fontFamily">@font/rubik</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Button.Rubik" parent="TextAppearance.MaterialComponents.Button">
+        <item name="fontFamily">@font/rubik</item>
+        <item name="android:fontFamily">@font/rubik</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Caption.Rubik" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="fontFamily">@font/rubik</item>
+        <item name="android:fontFamily">@font/rubik</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="TextAppearance.FrontEdEventHandlingDemo.Overline.Rubik" parent="TextAppearance.MaterialComponents.Overline">
+        <item name="fontFamily">@font/rubik</item>
+        <item name="android:fontFamily">@font/rubik</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="Widget.FrontEdEventHandlingDemo.Button.OutlinedButton.IconOnly" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="iconPadding">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:minWidth">48dp</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+
+    <style name="Widget.FrontEdEventHandlingDemo.DrawingView.White.OldImperial" parent="">
+        <item name="android:background">@color/white</item>
+        <item name="strokeColor">@color/old_imperial</item>
+        <item name="strokeWidth">4dp</item>
+    </style>
+</resources>
